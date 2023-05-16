@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237650608008",
+    "project_id": "digimind-68c04",
+    "storage_bucket": "digimind-68c04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237650608008:android:b42c09a3262b9804de843d",
+        "android_client_info": {
+          "package_name": "vizcarra.leobardo.mydigimind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237650608008-8jnh9gjjh74u52mgfmb5esh3eav6gjd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHE2Bp7pW9G2avXsbCaZERgtVvlngPwJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237650608008-8jnh9gjjh74u52mgfmb5esh3eav6gjd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
